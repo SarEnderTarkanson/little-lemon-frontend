@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navigation from "./Navigation";
+import Navigation from "../navigation/Navigation";
 import Hamburger from "../assets/hamburger.png";
 import Close from "../assets/close.png";
 
